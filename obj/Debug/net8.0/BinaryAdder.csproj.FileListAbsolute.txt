@@ -1,0 +1,15 @@
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\bin\Debug\net8.0\BinaryAdder.exe
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\bin\Debug\net8.0\BinaryAdder.deps.json
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\bin\Debug\net8.0\BinaryAdder.runtimeconfig.json
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\bin\Debug\net8.0\BinaryAdder.dll
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\bin\Debug\net8.0\BinaryAdder.pdb
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.AssemblyInfoInputs.cache
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.AssemblyInfo.cs
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.csproj.CoreCompileInputs.cache
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.sourcelink.json
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.dll
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\refint\BinaryAdder.dll
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.pdb
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\BinaryAdder.genruntimeconfig.cache
+C:\Users\Con_P\OneDrive\Desktop\BinaryAdder\obj\Debug\net8.0\ref\BinaryAdder.dll

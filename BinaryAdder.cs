@@ -2,21 +2,33 @@
 {
     static void Main()
     {
-        Console.WriteLine("Binary Number 1:");
-        char[] binaryNumber1 = Console.ReadLine().ToCharArray();
+        bool exit = false;
+        while (!exit)
+        {
+            Console.WriteLine("Binary Number 1:");
+            string readLine1 =  Console.ReadLine();
+            if(readLine1 == "")
+                exit = true;
+            char[] binaryNumber1 = readLine1.ToCharArray();
 
-        Console.WriteLine("Binary Number 2:");
-        char[] binaryNumber2 = Console.ReadLine().ToCharArray();
 
-        Array.Reverse(binaryNumber1);
-        Array.Reverse(binaryNumber2);
-        Console.WriteLine("Result:");
-        if(binaryNumber1.Length > binaryNumber2.Length)
-            Console.WriteLine(string.Concat(BinaryAddition(binaryNumber1, binaryNumber2)));
-        else
-            Console.WriteLine(string.Concat(BinaryAddition(binaryNumber2, binaryNumber1)));
+            Console.WriteLine("Binary Number 2:");
+            string readLine2 = Console.ReadLine();
+            if(readLine2 == "")
+                exit = true;
+            char[] binaryNumber2 = readLine2.ToCharArray();
 
-        Console.ReadLine();
+
+            Array.Reverse(binaryNumber1);
+            Array.Reverse(binaryNumber2);
+            Console.WriteLine("Result:");
+            if(binaryNumber1.Length > binaryNumber2.Length)
+                Console.WriteLine(string.Concat(BinaryAddition(binaryNumber1, binaryNumber2)));
+            else
+                Console.WriteLine(string.Concat(BinaryAddition(binaryNumber2, binaryNumber1)));
+
+            Console.ReadLine(); 
+        }
     }
     static char[] BinaryAddition(char[] largerNumber, char[] smallerNumber)
     {
